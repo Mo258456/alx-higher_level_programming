@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 // get all star wars chars in the right order
 const args = (process.argv);
